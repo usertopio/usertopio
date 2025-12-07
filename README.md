@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tammasorn R.</h1>
-<h3 align="center">I graduated in Robotics and Automation Engineering, which gave me a solid foundation in both software and hardware. I have hands-on experience in several areas, including: ⚡ IoT system development using microcontrollers and appropriate sensors 💻 Full-stack web application development, covering Frontend, Backend, and Database 🖊️ Assisting in technical workshops, supporting learners and helping them build real projects 🌱 Passion I’m passionate about building things that connect the digital and physical worlds. I love solving problems, exploring new technologies, and creating projects that are not only functional but also meaningful. Whether it's writing clean code, designing a system, or experimenting with new tools—I genuinely enjoy the process of learning and making ideas come to life.</h3>
+<P align="center">I graduated in Robotics and Automation Engineering, which gave me a solid foundation in both software and hardware. I have hands-on experience in several areas, including: ⚡ IoT system development using microcontrollers and appropriate sensors 💻 Full-stack web application development, covering Frontend, Backend, and Database 🖊️ Assisting in technical workshops, supporting learners and helping them build real projects 🌱 I’m passionate about building things that connect the digital and physical worlds. I love solving problems, exploring new technologies, and creating projects that are not only functional but also meaningful. Whether it's writing clean code, designing a system, or experimenting with new tools—I genuinely enjoy the process of learning and making ideas come to life.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usertopio" alt="usertopio" /></a> </p>
+🔭 I’m currently working on [CNX The Movie](https://github.com/users/usertopio/projects/3)
 
-- 🔭 I’m currently working on [CNX The Movie](https://github.com/users/usertopio/projects/3)
+🌱 I’m currently learning **React.js, MUI, and Supabase**
 
-- 🌱 I’m currently learning **React.js, MUI, and Supabase**
+👨‍💻 All of my projects are available at [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
+📝 I regularly write articles on [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
 
-- 📝 I regularly write articles on [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
+💬 Ask me about **Software and IoT system development**
 
-- 💬 Ask me about **Software and IoT system development**
+📫 How to reach me **https://github.com/usertopio**
 
-- 📫 How to reach me **https://github.com/usertopio**
+📄 Know about my experiences [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
 
-- 📄 Know about my experiences [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
-
-- ⚡ Fun fact **I am a technologist + artist**
+⚡ Fun fact **I am a technologist + artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +29,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/usertopio"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/usertopio" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usertopio&show_icons=true&locale=en&layout=compact" alt="usertopio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usertopio&show_icons=true&locale=en" alt="usertopio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usertopio&" alt="usertopio" /></p>
