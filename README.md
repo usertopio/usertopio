@@ -1,33 +1,74 @@
-<h1 align="center">Hi 👋, I'm Tammasorn R.</h1>
-<P align="center">I graduated in Robotics and Automation Engineering, which gave me a solid foundation in both software and hardware. I have hands-on experience in several areas, including: ⚡ IoT system development using microcontrollers and appropriate sensors 💻 Full-stack web application development, covering Frontend, Backend, and Database 🖊️ Assisting in technical workshops, supporting learners and helping them build real projects 🌱 I’m passionate about building things that connect the digital and physical worlds. I love solving problems, exploring new technologies, and creating projects that are not only functional but also meaningful. Whether it's writing clean code, designing a system, or experimenting with new tools—I genuinely enjoy the process of learning and making ideas come to life.</p>
+# 🏄‍♂️ Tammasorn R.
 
-🔭 I’m currently working on [CNX The Movie](https://github.com/users/usertopio/projects/3)
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-🌱 I’m currently learning **React.js, MUI, and Supabase**
+I graduated in Robotics and Automation Engineering, which gave me a solid foundation in both software and hardware. I have hands-on experience in several areas, including: 
+- ⚡ IoT system development using microcontrollers and appropriate sensors 
+- 💻 Full-stack web application development, covering Frontend, Backend, and Database 
+- 🖊️ Assisting in technical workshops, supporting learners and helping them build real projects
+I’m passionate about building things that connect the digital and physical worlds. I love solving problems, exploring new technologies, and creating projects that are not only functional but also meaningful. Whether it's writing clean code, designing a system, or experimenting with new tools—I genuinely enjoy the process of learning and making ideas come to life.
 
-👨‍💻 All of my projects are available at [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
-
-📝 I regularly write articles on [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
-
-💬 Ask me about **Software and IoT system development**
-
-📫 How to reach me **https://github.com/usertopio**
-
-📄 Know about my experiences [https://github.com/usertopio?tab=repositories](https://github.com/usertopio?tab=repositories)
-
-⚡ Fun fact **I am a technologist + artist**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25493314/usertop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25493314/usertop" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tammasorn.top/?locale=th_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tammasorn.top/?locale=th_th" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/usertopio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/usertopio/" height="30" width="40" /></a>
+  <a href="https://github.com/usertopio">
+    <img alt="github profile" src="https://custom-icon-badges.demolab.com/badge/GitHub-Repo-blue.svg?logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/usertopio">
+    <img alt="github profile" src="https://custom-icon-badges.demolab.com/badge/GitHub-Repo-blue.svg?logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/fknight">
+     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/ForrestKnight?tab=followers">
+     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
-<h3 align="left">Support:</h3>
+---
+
+### 🧰 Technology stack
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Rust Changed How I Code Forever](https://ytcards.demolab.com/?id=3lvofS5vktc&title=Rust+Changed+How+I+Code+Forever&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "Rust Changed How I Code Forever")](https://www.youtube.com/watch?v=3lvofS5vktc)
+[![I Tried Coding on Every OS // Here’s What I Learned](https://ytcards.demolab.com/?id=yz4i8vD-Klc&title=I+Tried+Coding+on+Every+OS+%2F%2F+Here%E2%80%99s+What+I+Learned&lang=en&timestamp=1763053302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1455 "I Tried Coding on Every OS // Here’s What I Learned")](https://www.youtube.com/watch?v=yz4i8vD-Klc)
+[![Java Isn't Verbose // we just suck](https://ytcards.demolab.com/?id=UZuWeLjyT3c&title=Java+Isn%27t+Verbose+%2F%2F+we+just+suck&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1275 "Java Isn't Verbose // we just suck")](https://www.youtube.com/watch?v=UZuWeLjyT3c)
+[![Everything You Need to Know About Coding with AI // NOT vibe coding](https://ytcards.demolab.com/?id=5fhcklZe-qE&title=Everything+You+Need+to+Know+About+Coding+with+AI+%2F%2F+NOT+vibe+coding&lang=en&timestamp=1760552100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=795 "Everything You Need to Know About Coding with AI // NOT vibe coding")](https://www.youtube.com/watch?v=5fhcklZe-qE)
+[![AI is writing 90% of your code?](https://ytcards.demolab.com/?id=howz8BKRUQM&title=AI+is+writing+90%25+of+your+code%3F&lang=en&timestamp=1758908426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "AI is writing 90% of your code?")](https://www.youtube.com/shorts/howz8BKRUQM)
+[![Java just got cleaner](https://ytcards.demolab.com/?id=YLCrAm-aGI8&title=Java+just+got+cleaner&lang=en&timestamp=1758046504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=449 "Java just got cleaner")](https://www.youtube.com/watch?v=YLCrAm-aGI8)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+### 🪙 Support
 <p><a href="https://ko-fi.com/https://ko-fi.com/usertopio"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/usertopio" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usertopio&" alt="usertopio" /></p>
