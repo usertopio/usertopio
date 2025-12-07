@@ -4,7 +4,7 @@
 </p>
 
 <!-- Night Owl image -->
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img align="right" width="40%" src="./about-me.png">
 
 
 # 👨🏼‍💻 Tammasorn R.
@@ -46,7 +46,7 @@ I’m passionate about building things that connect the digital and physical wor
 
 ## 📊 Statistics
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![usertopio's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
 ## 🪙 Support
 
