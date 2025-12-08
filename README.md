@@ -12,9 +12,9 @@
 **`Developer`** **`Inventor`** **`Technologist`**
 
 I graduated in Robotics and Automation Engineering, which gave me a solid foundation in both software and hardware. I have hands-on experience in several areas, including: 
-- ⚡ IoT system development using microcontrollers and appropriate sensors 
-- 💻 Full-stack web application development, covering Frontend, Backend, and Database 
-- 🖊️ Assisting in technical workshops, supporting learners and helping them build real projects
+- ⚡ Hands-on IoT system development using microcontrollers such as Arduino, ESP32, ESP8266, and Raspberry Pi with peripherals.
+- 💻 Full-stack web application development, covering Frontend, Backend, and Database.
+- 🖊️ Assisting in technical workshops, supporting learners and helping them build real projects.
 
 I’m passionate about building things that connect the digital and physical worlds. I love solving problems, exploring new technologies, and creating projects that are not only functional but also meaningful. Whether it's writing clean code, designing a system, or experimenting with new tools—I genuinely enjoy the process of learning and making ideas come to life.
 
