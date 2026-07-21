@@ -21,6 +21,16 @@ I’m passionate about building things that connect the digital and physical wor
 
 ---
 
+## 🚀 My contributions, as a space shooter game
+
+<p align="center">
+  <img src="./gh-space-shooter.gif" width="100%" alt="My GitHub contributions as a space shooter game">
+</p>
+
+*Powered by [gh-space-shooter](https://github.com/czl9707/gh-space-shooter), auto-updated daily.*
+
+---
+
 ## ⚔️ Technology stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
