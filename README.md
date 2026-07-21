@@ -56,6 +56,10 @@ I’m passionate about building things that connect the digital and physical wor
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"/>
 </div>
 
+## 🚀 Projects
+
+- **[Space Shooter](https://github.com/czl9707/gh-space-shooter)** — Visualizes GitHub contribution graphs as a Space Shooter game! ([Live demo](https://gh-space-shooter.kiyo-n-zane.com))
+
 ## 🪙 Support
 
 <p><a href="https://ko-fi.com/https://ko-fi.com/usertopio"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/usertopio" /></a></p><br><br>
